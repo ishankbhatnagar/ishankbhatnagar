@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishank Bhatnagar</h1>
 <h3 align="center">An enthusiastic machine learning/deep learning enthusiast</h3>
 
-- 🌱 I’m currently learning **Flask and DSA**
+- 🌱 I’m currently learning **Django and DSA**
 
 - 📫 How to reach me **ishankbhatnagar2@gmail.com**
 
