@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ishankbhatnagar2@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1twL2YZnqYKuqrunGHPyjrgQ_NBhBRFqA/view?usp=drive_link)
+  
 [![An image of @infernorising's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/infernorising)](https://holopin.io/@infernorising)
 
 <h3 align="left">Connect with me:</h3>
