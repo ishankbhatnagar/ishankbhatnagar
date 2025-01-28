@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ishank Bhatnagar</h1>
 <h3 align="center">A machine learning/deep learning enthusiast</h3>
 
-- 🌱 I’m currently learning upskilling in **DevOps with Python and Deep Learning**
+- 🌱 I’m currently learning and upskilling in **DevOps with Python and Deep Learning**
 
 - 📫 How to reach me **ishankbhatnagar2@gmail.com**
-
-- 📄 [My Resume](https://drive.google.com/your-link-here)
   
 [![An image of @infernorising's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/infernorising)](https://holopin.io/@infernorising)
 
