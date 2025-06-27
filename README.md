@@ -2,8 +2,6 @@
 <h3 align="center">A machine learning/deep learning enthusiast</h3>
 
 - 🌱 I’m deeply interested in AI/ML and am currently exploring the theoretical foundations of neural networks while upskilling in the domain of large language models (LLMs).
-
-- 📫 How to reach me **ishankbhatnagar2@gmail.com**
   
 [![An image of @infernorising's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/infernorising)](https://holopin.io/@infernorising)
 
