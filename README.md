@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishank Bhatnagar</h1>
 <h3 align="center">A machine learning/deep learning enthusiast</h3>
 
-- 🌱 I’m currently learning and upskilling in **DevOps with Python and Deep Learning**
+- 🌱 I’m deeply interested in AI/ML and am currently exploring the theoretical foundations of neural networks while upskilling in the domain of large language models (LLMs).
 
 - 📫 How to reach me **ishankbhatnagar2@gmail.com**
   
